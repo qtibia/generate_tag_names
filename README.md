@@ -5,8 +5,12 @@ The idea is to generate unique tag names for conferences to improve social netwo
 
 Thus, the unique tags will be generated from a list of animal (mythical creatures) names and adjectives.
 
+Members that want to play it better should try to create a story backing up the tag name and also try to blend in the character.
+
+E.g the "hysterical piggy" may sometimes be hysterical,
+
 Creation of the sqlite table:
 
 ```
-CREATE TABLE animal_names (id integer PRIMARY KEY, animal_m text UNIQUE, animal_f text UNIQUE);
+CREATE TABLE names (id integer PRIMARY KEY, name_m text UNIQUE, name_f text UNIQUE);
 ```
