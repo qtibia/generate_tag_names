@@ -14,3 +14,9 @@ Creation of the sqlite table:
 ```
 CREATE TABLE names (id integer PRIMARY KEY, name_m text UNIQUE, name_f text UNIQUE);
 ```
+
+The names.csv table is a mirror of the names table in the db.
+
+```
+sqlite3 -separator $'\t' -header db.sqlite "SELECT name_m, name_f FROM names" > names.csv
+```
