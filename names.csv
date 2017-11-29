@@ -1,36 +1,45 @@
-name_m	name_f
-Porcușorul	
-Mistreț	Mistreața
-Facocerul	Facocera
-Rățoiul	Rățușca
-Lebădoiul	Lebăda
-Gâscanul	Gâsca
-Măgarul	Măgărița
-Unicornul	Unicornița
-Zmeul	Zmeoaica
-Babuinul	Babuina
-Șocâtele	
-Pârșul	Pârșoaica
-Pinguinul	Pinguina
-	Ciocănitoarea
-Cucul	Cucoaica
-Ariciul	Aricioaia
-	Chupacabra
-Gândacul	Gândăcioaia
-Gongălăul	Goanga
-	Hiena
-Șarpele	Șerpoaica
-Cocoșelul	Găinușa
-Candiru	
-Murgoiul	Murgoiașa
-	Știuca
-Anghiloiul	Anghila
-	Reginuța
-Guvidul	Guvida
-Bondarul	Albinuța
-Mangustoiul	Mangusta
-Șinșiloiul	Șinșila
-Ratonul	Ratonoaica
-Bibanul	
-Vulpoi	Vulpea
-Moleculoiul	Molecula
+id,name_m,name_f
+1,"Porcușorul",
+2,"Mistreț","Mistreața"
+3,Facocerul,Facocera
+4,"Rățoiul","Rățușca"
+5,"Lebădoiul","Lebăda"
+6,"Gâscanul","Gâsca"
+7,"Măgarul","Măgărița"
+8,Unicornul,"Unicornița"
+9,Zmeul,Zmeoaica
+10,Babuinul,Babuina
+11,"Șocâtele",
+12,"Pârșul","Pârșoaica"
+13,Pinguinul,Pinguina
+14,"","Ciocănitoarea"
+15,Cucul,Cucoaica
+16,Ariciul,Aricioaia
+17,,Chupacabra
+18,"Gândacul","Gândăcioaia"
+19,"Gongălăul",Goanga
+20,,Hiena
+21,"Șarpele","Șerpoaica"
+22,"Cocoșelul","Găinușa"
+23,Candiru,
+24,Murgoiul,"Murgoiașa"
+25,,"Știuca"
+26,Anghiloiul,Anghila
+27,,"Reginuța"
+28,Guvidul,Guvida
+29,Bondarul,"Albinuța"
+30,Mangustoiul,Mangusta
+31,"Șinșiloiul","Șinșila"
+32,Ratonul,Ratonoaica
+33,Bibanul,
+34,Vulpoi,Vulpea
+35,Moleculoiul,Molecula
+36,,"Coțofana"
+37,Scaietele,
+38,Ciulinele,
+39,Cioroiul,Cioara
+40,Godacul,
+41,Cintezoiul,
+42,Brabetele,
+43,Amiba,Amiba
+44,"Ursulețul",""
